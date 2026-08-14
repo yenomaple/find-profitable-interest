@@ -1,4 +1,0 @@
-interface:
-  display_name: "find-profitable-interest"
-  short_description: "从真实经历中找出可持续、可验证、可能赚钱的兴趣与生产循环"
-  default_prompt: "使用 $find-profitable-interest，通过逐步访谈帮我找到值得验证的盈利兴趣。"

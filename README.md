@@ -58,6 +58,8 @@ npx -y skills add yenomaple/find-profitable-interest -g --all
 
 Skill 设置了两道确认门槛：确认兴趣画像前不推荐职业、副业、产品或行动；选择盈利候选前不设计验证动作。用户可以停在任何阶段。
 
+为了避免访谈变成无休止追问，默认使用紧凑模式：兴趣确认通常问 2–3 个问题、最多 4 个；赚钱连接最多问 2 个。每个问题都会显示当前进度。用户随时可以说“跳过”“先出草案”或“直接给结论”，Skill 会立即用现有证据输出，并把缺失信息标为未知。
+
 ## 来源与修改说明
 
 本 Skill 基于 [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) 的商业诊断方法，以及 dontbesilent 关于“把兴趣变成工作”“生产型兴趣”的公开内容进行二次创作，**不是官方 dbskill，也不依赖 dbskill 路由**。
